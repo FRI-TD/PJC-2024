@@ -124,7 +124,7 @@ int main() {
 
 
   // kazalec na zacetek seznama
-  student *z;
+  student *z = NULL;
   z = dodajU(z, s1); 
   z = dodajU(z, s2); 
   z = dodajU(z, s3); 
